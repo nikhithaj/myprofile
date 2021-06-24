@@ -3282,6 +3282,69 @@
             "keyStrokeTimeStamp": "Mon Jun 21 2021 22:49:36",
             "keyStrokeInfo": "",
             "position": "15,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:27",
+            "keyStrokeInfo": "",
+            "position": "217,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:29",
+            "keyStrokeInfo": "",
+            "position": "217,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:29",
+            "keyStrokeInfo": "",
+            "position": "217,38"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:30",
+            "keyStrokeInfo": "",
+            "position": "217,37"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:30",
+            "keyStrokeInfo": "",
+            "position": "217,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:30",
+            "keyStrokeInfo": "",
+            "position": "217,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:32",
+            "keyStrokeInfo": "6",
+            "position": "217,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:32",
+            "keyStrokeInfo": ".",
+            "position": "217,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Jun 22 2021 12:46:33",
+            "keyStrokeInfo": "6.jpg",
+            "position": "217,35"
         }
     ]
 }
